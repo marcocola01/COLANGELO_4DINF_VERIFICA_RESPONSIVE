@@ -1,0 +1,35 @@
+<div class = "ref2">
+<h1 style = "color:white">The City</h1>
+</div>
+
+<div class = "ref3">
+<h1 style = "color:white">The Island</h1>
+</div>
+
+<div class = "ref4">
+<h1 style = "color:white">The Food</h1>
+</div>
+div.ref2{
+	background-color: gray;
+	max-width: 100px;
+	height: 20px;
+	margin-top:1px;
+	margin-left:10px;
+	font-size:6px;
+}
+div.ref3{
+	background-color: gray;
+	max-width: 100px;
+	height: 20px;
+	margin-top:1px;
+	margin-left:10px;
+	font-size:6px;
+}
+div.ref4{
+	background-color: gray;
+	max-width: 100px;
+	height: 200px;
+	margin-top:1px;
+	margin-left:10px;
+	font-size:6px;
+}
